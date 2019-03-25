@@ -18,6 +18,7 @@ namespace WindowsFormsApp1
             //Khoi Tao Control
             //code here
         }
+        //coe nguyen van a
 
     }
 }
